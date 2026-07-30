@@ -18,7 +18,7 @@ dependencies = [
   "pandas",
   "geopandas",
   "healpy",
-  "skyview",
+  "skysurvey",
   "cartopy",
   "astropy",
 ]
